@@ -1,0 +1,38 @@
+header{
+    background-color: rgba(77, 171, 77, 1);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 60px;
+   max-width: 1230px;
+}
+
+header .one{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+header .one h1{
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 1px;
+}
+
+header .two{
+    text-align: center;
+    position: relative;
+    top: -30px;
+}
+header .two .con{
+    font-weight: 500;
+    font-size: 25px;
+}
+header .two .desc{
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: center;
+}
+.herosec{
+    background-color: black;
+    height: 553px;
+
+}
